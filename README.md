@@ -1,2 +1,2 @@
-# MRI
+# Brain MRI 
 MRI Analysis 
